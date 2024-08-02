@@ -26,7 +26,7 @@ As a user, I want to be able to filter my to-do list by due date or priority so 
 As a user, I want to be able to categorize my tasks (e.g., work, personal, etc.) so that I can better organize my to-do list.
 
 Accessing the Hosted Project
-To access the project, you will need to:
+To access the project, you will need to go this website: https://vitalyporunov.github.io/assignment2/
 
 Design Decisions
 Material Design: Material Design was chosen for its clean, modern aesthetic and well-defined guidelines, promoting a consistent and user-friendly experience.
