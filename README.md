@@ -1,4 +1,4 @@
-# assignment2
+# JavaScriot Assignment: To-do list
 
 Project Concept
 The To-Do List project aims to create a simple yet effective web-based application that helps users manage their tasks and stay organized. It provides essential features for adding, editing, deleting, completing, filtering, and categorizing tasks. The project prioritizes user-friendliness, visual appeal, and responsiveness across different devices.
